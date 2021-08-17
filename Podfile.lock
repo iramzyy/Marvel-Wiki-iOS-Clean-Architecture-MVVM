@@ -1,0 +1,23 @@
+PODS:
+  - Keys (1.0.1)
+  - Kingfisher (6.3.1)
+
+DEPENDENCIES:
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+
+PODFILE CHECKSUM: 6ec4135fe015988a5dbfd68d2cf3f96721a5ff87
+
+COCOAPODS: 1.10.1
